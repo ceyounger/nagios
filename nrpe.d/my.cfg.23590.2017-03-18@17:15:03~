@@ -1,2 +1,0 @@
-command[check_root_disk]=/usr/lib/nagios/plugins/check_disk -w 20% -c 10% -p /
-command[check_docker_socket]=sudo /usr/local/bin/check_docker 
